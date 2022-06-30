@@ -1,0 +1,15 @@
+{
+  "compilerOptions": {
+    "lib": ["ES6", "DOM", "ES2017", "ESNext.AsyncIterable"],
+    "types": [],
+    "moduleResolution": "node",
+    // "noUnusedLocals": true,
+    "noUnusedParameters": true,
+    "sourceMap": true,
+    "target": "es2017",
+    "outDir": "lib",
+    "skipLibCheck": true,
+    "resolveJsonModule": true
+  },
+  "exclude": ["node_modules"]
+}
